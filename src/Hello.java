@@ -3,7 +3,7 @@ public class Hello {
     private String hello;
 
     Hello(){
-        hello = "Hello";
+        hello = "Hello World";
     }
 
     public void setHello(String hello) {
